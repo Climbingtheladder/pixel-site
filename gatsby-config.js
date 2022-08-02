@@ -37,7 +37,7 @@ module.exports = {
       resolve: `gatsby-plugin-gdpr-cookies`,
       options: {
         facebookPixel: {
-          pixelId: "463322395609629",
+          pixelId: "523727992856702",
           cookieName: "cookie-consent",
         },
         environments: ["production", "development"],
